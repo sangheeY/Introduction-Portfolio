@@ -9,7 +9,7 @@
 > 데이터 과학 ( 데이터 테크 )
 >> R studio
 >>* 시각화
->>* 회귀분석
+>>* 회귀분석  
 >> Python
 >>* machine learning
 >>* deep learning
