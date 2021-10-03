@@ -10,7 +10,7 @@
 > R studio
 >> 시각화  
 >> 회귀분석  
-
+>
 > Python  
 >> machine learning  
 >> deep learning  
