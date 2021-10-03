@@ -24,10 +24,10 @@
 ### 교육과정
 |학년|주요 내용|수강 내용|사용 프로그램|
 |---|---|---|---|
-|1|기초 수학/통계|통계학/일반수학||
-|2|금융 수학|보험계리/금융기초/확률론|R studio|
-|3|데이터 분석론/컴퓨터 언어|데이터 시각화/데이터 사이언스/Java/C|R studio/Java/C|
-|4|Project 실습|machine learning/deep learning|R studio/Python|
+|1|기초 수학/통계|통계학, 일반수학||
+|2|금융 수학|보험계리, 금융기초, 확률론|R studio|
+|3|데이터 분석론/컴퓨터 언어|데이터 시각화, 데이터 사이언스, Java/C|R studio, Java, C|
+|4|Project 실습|machine learning&deep learning|R studio, Python|
 
 ### 자격증
 - ADSP
