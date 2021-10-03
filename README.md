@@ -7,10 +7,10 @@
 ****  
 ### 전공/관심분야
 > 데이터 과학 ( 데이터 테크 )
->> R studio
+> R studio
 >>* 시각화
 >>* 회귀분석  
->> Python
+> Python
 >>* machine learning
 >>* deep learning
 
