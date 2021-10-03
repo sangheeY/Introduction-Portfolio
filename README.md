@@ -16,7 +16,7 @@
 >> deep learning  
 
 #### 소프트웨어 ( 빅데이터 )
-> C
+> C  
 > Java
 ****  
 
